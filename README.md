@@ -6,6 +6,7 @@ The grid system is used to develop the website.
 # Usage
 Bootstrap 4, css
 link for website- https://maquil.github.io/Assignment-2/
-#contributor
+
+# contributor
 Maria Aquil
 
