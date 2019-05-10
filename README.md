@@ -4,7 +4,7 @@ It is a user friendly site with description of the dresses.
 The grid system is used to develop the website.
 
 # Usage
-Bootstrap 4, css
+Bootstrap 4, css, 
 link for website- https://maquil.github.io/Assignment-2/
 
 # contributor
